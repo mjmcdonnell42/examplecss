@@ -1,6 +1,6 @@
 .cover-image {
-    display: none;
+    display: none !important;
 }
 .hero-overlay {
-    opacity: .3;
+    opacity: .3 !important;
 }
