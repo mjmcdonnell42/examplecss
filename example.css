@@ -1,7 +1,6 @@
-<div _ngcontent-fum-c198="" class="header-wrapper section-content" style="
+.cover-image {
     display: none;
-">
-.hero-overlay[_ngcontent-fum-c198] {
-    background-color: var(--backgroundColor);
+}
+.hero-overlay {
     opacity: .3;
 }
