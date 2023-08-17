@@ -1,3 +1,17 @@
-.card-content.cover-image {
-    display: none !important;
+div.title: after {content:
+	url(https://drive.google.com/file/d/1ti58gXwys4B1j1ZN0OXQkYHfX3il1zG6/view?usp=drive_link?fit=max&w=800&auto=format&q=62);
+	position: relative;
+	display: block;
+	margin: auto;
+	width: fit-content;
+	border-radius:10%!important;
+}
+
+@media only screen and (max-width: 800px) {
+	div.title {
+	display: block!important;
+	width: fit-
+	content!important;
+}
+
 }
