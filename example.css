@@ -1,17 +1,19 @@
-div.title: after {content:
-	url(https://drive.google.com/file/d/1ti58gXwys4B1j1ZN0OXQkYHfX3il1zG6/view?usp=drive_link?fit=max&w=800&auto=format&q=62);
-	position: relative;
-	display: block;
-	margin: auto;
-	width: fit-content;
-	border-radius:10%!important;
+@import url('https://fonts.cdnfonts.com/css/svn-gilroy');
+@import url('https://fonts.cdnfonts.com/css/gilroy-bold');
+
+body {
+    /*font-family: 'SVN-Gilroy', sans-serif;                                                                  
+    font-family: 'Gilroy-Regular', sans-serif;
+    font-family: 'Gilroy-Heavy', sans-serif;
+    font-family: 'Gilroy-Light', sans-serif;
+    font-family: 'Gilroy-Medium', sans-serif;*/
+    font-family: 'Gilroy-Bold', sans-serif;
 }
 
-@media only screen and (max-width: 800px) {
-	div.title {
-	display: block!important;
-	width: fit-
-	content!important;
-}
-
+.event-location-map.ng-star-inserted:before {
+    content: url(https://drive.google.com/uc?id=1ti58gXwys4B1j1ZN0OXQkYHfX3il1zG6&export=download);
+    text-align: center!important;
+    margin-top: -5%!important;
+    display: block;
+    transform: scale(0.8);
 }
