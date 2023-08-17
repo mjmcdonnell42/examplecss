@@ -11,6 +11,10 @@ body {
     font-family: 'Gilroy-Regular', sans-serif;
 }
 
+h1 {
+  font-family: "Gilroy-Bold", sans-serif;
+}
+
 .event-location-map.ng-star-inserted:before {
     content: url(https://drive.google.com/uc?id=1ti58gXwys4B1j1ZN0OXQkYHfX3il1zG6&export=download);
     text-align: center!important;
