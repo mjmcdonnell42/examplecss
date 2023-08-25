@@ -1,5 +1,5 @@
-h1.event-name {
-	display:none !important!;
+.event-name {
+	display: none !important!;
 }
 
 .venue.ng-star-inserted {
