@@ -1,0 +1,7 @@
+.event-details.event-name {
+	display:none !important;
+}
+
+.event-details.event-where-when {
+	display:none !important;
+}
