@@ -1,7 +1,15 @@
-.event-details.event-name{
-	display: none !important;
+h1.event-name {
+	display:none !important!;
 }
 
-.event-details.event-where-when{
-	display: none !important;
+.venue.ng-star-inserted {
+    display: none !important;
+}
+
+.event-date.ng-star-inserted {
+    display: none !important;
+}
+
+.event-where-when {
+    padding-top: 0px;
 }
