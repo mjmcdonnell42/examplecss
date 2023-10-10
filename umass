@@ -1,0 +1,25 @@
+.container[_ngcontent-gpe-c202] {
+max-width:100%;
+}
+And edit the video block to
+.video-stream[_ngcontent-gpe-c202] {
+width: 100vw;
+height: 50vw;
+}
+
+.session-item[_ngcontent-gpe-c202] {
+    flex-direction: column;
+    width: 50%;
+    box-sizing: border-box;
+    padding: 10px;
+}
+
+.container[_ngcontent-gpe-c202] {
+
+    max-width: 50rem!important; 
+} 
+
+slice[_ngcontent-gpe-c202] {
+    display: flex;
+    flex-wrap: wrap;
+}
