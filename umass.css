@@ -1,7 +1,6 @@
 .container[_ngcontent-gpe-c202] {
 max-width:100%;
 }
-And edit the video block to
 .video-stream[_ngcontent-gpe-c202] {
 width: 100vw;
 height: 50vw;
