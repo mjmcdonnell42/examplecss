@@ -1,9 +1,11 @@
-.container[_ngcontent-gpe-c202] {
-max-width:100%;
+.container.mat-elevation-z2.ng-star-inserted {
+    max-width: 60rem!important;
 }
-.video-stream[_ngcontent-gpe-c202] {
-width: 100vw;
-height: 50vw;
+    
+
+section.video-stream {
+    width: 100vw!important;
+    height: 50vw!important;
 }
 
 .session-item[_ngcontent-gpe-c202] {
@@ -13,12 +15,9 @@ height: 50vw;
     padding: 10px;
 }
 
-.container[_ngcontent-gpe-c202] {
 
-    max-width: 50rem!important; 
-} 
 
-slice[_ngcontent-gpe-c202] {
-    display: flex;
-    flex-wrap: wrap;
+.slice.ng-star-inserted {
+    display:flex!important;
+    flex-wrap:wrap!important;
 }
