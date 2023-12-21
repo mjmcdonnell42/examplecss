@@ -1,0 +1,38 @@
+@import url('https://p.typekit.net/p.css?s=1&k=skd2pqf&ht=tk&f=31033.31051&a=1611523&app=typekit&e=css');
+
+@font-face {
+
+font-family:"farnham-display";
+
+src:url(https://use.typekit.net/af/196ce9/00000000000000003b9aed51/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff2"),url(https://use.typekit.net/af/196ce9/00000000000000003b9aed51/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("woff"),url(https://use.typekit.net/af/196ce9/00000000000000003b9aed51/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3) format("opentype");
+
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+
+}
+
+ 
+
+@font-face {
+
+font-family:"farnham-text";
+
+src:url(https://use.typekit.net/af/0b5994/00000000000000003b9aed56/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff2"),url(https://use.typekit.net/af/0b5994/00000000000000003b9aed56/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("woff"),url(https://use.typekit.net/af/0b5994/00000000000000003b9aed56/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3) format("opentype");
+
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+
+}
+
+body {
+    /*font-family: 'SVN-Gilroy', sans-serif;                                                                  
+    font-family: 'Gilroy-Regular', sans-serif;
+    font-family: 'Gilroy-Heavy', sans-serif;
+    font-family: 'Gilroy-Light', sans-serif;
+    font-family: 'Gilroy-Bold', sans-serif;
+    font-family: 'Gilroy-Medium', sans-serif;*/
+    font-family: 'Farnham Text', sans-serif;
+}
+
+h1 {
+  font-family: "Farnham Display", sans-serif;
+}
+
