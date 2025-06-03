@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope);
+
+body {
+    /*font-family: 'Manrope','Helvetica', sans-serif;                                                                  
+    font-family: 'Manrope-ExtraLight', sans-serif;*/
+    font-family: 'Manrope-Regular', sans-serif;
+    font-family: 'Manrope-Medium', sans-serif;
+    /*font-family: 'Manrope-SemiBold', sans-serif;*/
+    font-family: 'Manrope-Bold', sans-serif;
+    /*font-family: 'Manrope-ExtraBold', sans-serif;*/
+}
+
+.event-description.ng-star-inserted {
+    padding-top: .5rem !important;
+}
