@@ -1,3 +1,7 @@
-button.mat-focus-indicator.mat-menu-trigger.action-button.mat-stroked-button.mat-button-base.ng-star-inserted {
+.event-description.ng-star-inserted {
+    padding-top: .5rem !important;
+}
+
+bt-master-event-ui-confirmation .actions button.mat-menu-trigger, .actions bt-add-to-calendar {
     display: none !important;
 }
