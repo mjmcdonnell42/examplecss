@@ -2,6 +2,6 @@
     padding-top: .5rem !important;
 }
 
-bt-master-event-ui-confirmation .actions button.mat-menu-trigger, .actions bt-add-to-calendar {
+bt-order-success-failure .actions .mat-menu-trigger.border-button {
     display: none !important;
 }
