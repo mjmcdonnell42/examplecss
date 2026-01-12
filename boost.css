@@ -1,12 +1,13 @@
 .event-description.ng-star-inserted {
-    padding-top: .5rem !important;
+	padding-top: .5rem !important;
 }
 
 bt-master-event-ui-confirmation .actions button.mat-menu-trigger, .actions bt-add-to-calendar {
-    display: none !important;
+	display: none !important;
 }
+
 a.nav-item.ng-star-inserted {
-    display: none !important;
+	display: none !important;
 }
 .full-profile-link.ng-tns-c516894903-2 {
 	display: none !important;
@@ -15,6 +16,7 @@ a.nav-item.ng-star-inserted {
 h1.event-name.ng-star-inserted {
 	display: none !important;
 }
+
 .event-where-when.ng-star-inserted {
-	 display: none !important;
+	display: none !important;
 }
