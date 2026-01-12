@@ -6,14 +6,14 @@ bt-master-event-ui-confirmation .actions button.mat-menu-trigger, .actions bt-ad
 	display: none !important;
 }
 
-a.nav-item.ng-star-inserted {
+.nav-item.ng-star-inserted {
 	display: none !important;
 }
 .full-profile-link.ng-tns-c516894903-2 {
 	display: none !important;
 }
 
-h1.event-name.ng-star-inserted {
+.event-name.ng-star-inserted {
 	display: none !important;
 }
 
